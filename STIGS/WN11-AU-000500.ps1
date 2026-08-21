@@ -15,10 +15,10 @@
     Documentation   : https://stigaview.com/products/win11/v2r7/WN11-AU-000500/
 
 .TESTED ON
-    Date(s) Tested  : 
-    Tested By       : 
-    Systems Tested  : 
-    PowerShell Ver. : 
+    Date(s) Tested  : 19-AUG-2026
+    Tested By       : David Koschmann
+    Systems Tested  : Windows 11 Pro (Azure VM)
+    PowerShell Ver. : 5.1
 
 .USAGE
     PS C:\> .\STIG-ID-WN11-AU-000500.ps1 
