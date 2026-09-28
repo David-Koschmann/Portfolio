@@ -4,7 +4,7 @@
 
 Investigation of a hybrid cloud and on-prem intrusion at a fictional company, Greenfield Logistics, carried out in a simulated environment on the Log(N) Pacific threat hunting platform using Microsoft Sentinel and KQL.
 
-📄 [Read the full investigation report (PDF)](Operation_Helpline_Investigation_Report_REDACTED-3.pdf)
+📄 [Read the full investigation report (PDF)](Operation_Helpline_Investigation_Report_REDACTED.pdf)
 
 ---
 
